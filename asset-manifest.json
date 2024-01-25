@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Generate-Random-Passwords/static/css/main.a1c8acd0.css",
+    "main.js": "/React-Generate-Random-Passwords/static/js/main.d2bc806d.js",
+    "static/js/787.b9950389.chunk.js": "/React-Generate-Random-Passwords/static/js/787.b9950389.chunk.js",
+    "index.html": "/React-Generate-Random-Passwords/index.html",
+    "main.a1c8acd0.css.map": "/React-Generate-Random-Passwords/static/css/main.a1c8acd0.css.map",
+    "main.d2bc806d.js.map": "/React-Generate-Random-Passwords/static/js/main.d2bc806d.js.map",
+    "787.b9950389.chunk.js.map": "/React-Generate-Random-Passwords/static/js/787.b9950389.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1c8acd0.css",
+    "static/js/main.d2bc806d.js"
+  ]
+}
